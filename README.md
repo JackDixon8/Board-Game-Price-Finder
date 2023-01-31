@@ -1,3 +1,14 @@
+# Board Game Price Finder
+
+This project is in its early stage of development. Currently testing the data scrape function.
+
+Project is made with React, node and bootstrap.
+
+Plans to build an API around the data collected
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
